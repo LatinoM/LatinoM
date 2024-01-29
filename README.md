@@ -1,9 +1,12 @@
 ### Hi there 👋
-*Name:* Matt Latino
-*Uni:* Cardiff University
-*Graduating:* 2024
 
-*Hobbies:*
+**Name:** Matt Latino
+
+**Uni:** Cardiff University
+
+**Graduating:** 2024
+
+**Hobbies:**
 - Gaming (obvs)
 - Ballroom and Latin Dancing
 <!--
