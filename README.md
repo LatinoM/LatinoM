@@ -1,5 +1,11 @@
 ### Hi there 👋
+*Name:* Matt Latino
+*Uni:* Cardiff University
+*Graduating:* 2024
 
+*Hobbies:*
+- Gaming (obvs)
+- Ballroom and Latin Dancing
 <!--
 **LatinoM/LatinoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
